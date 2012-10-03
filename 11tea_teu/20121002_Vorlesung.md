@@ -15,5 +15,6 @@ Themen
 
 Links
 -----
+*   IEEE 754 Float to binary converter ( http://www.h-schmidt.net/FloatConverter/IEEE754.html )
 *   What Every Computer Scientist Should Know About Floating-Point Arithmetic ( http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html )
 *   Dear Microsoft, Thanks For The 0xB16B00B5 ( http://www.thepowerbase.com/2012/07/dear-microsoft-thanks-for-the-0xb16b00b5/ )
